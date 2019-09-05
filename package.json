@@ -1,0 +1,31 @@
+{
+  "name": "simple-http-assignment-start",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.15.3",
+    "npm": "6.4.1"
+  },
+  "description": "homework assignment for practice w/ http",
+  "main": "./src/server.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix",
+    "test": "echo  \"Tests complete\""
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cja1093/Simple-HTTP-Assignment-Start.git"
+  },
+  "author": "Cobey Adekanbi",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cja1093/Simple-HTTP-Assignment-Start/issues"
+  },
+  "homepage": "https://github.com/cja1093/Simple-HTTP-Assignment-Start#readme",
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
