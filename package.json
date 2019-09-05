@@ -2,7 +2,7 @@
   "name": "simple-http-assignment-start",
   "version": "1.0.0",
   "engines": {
-    "node": "10.15.3",
+    "node": "10.16.0",
     "npm": "6.4.1"
   },
   "description": "homework assignment for practice w/ http",
